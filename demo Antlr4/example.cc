@@ -1,7 +1,4 @@
-#include <iostream>
-
-
-int main(){
-    std::cout << "Hello World !"<< std::endl;
-    return 0;
+int a(){
+    return 1;
 }
+st = a();
